@@ -319,6 +319,7 @@ p {
     padding: 0 44px 34px 44px;
 }
 
+
 .haircut {
     flex: 1;
     display: flex;
@@ -415,3 +416,69 @@ img {
     visibility: visible;
     opacity: 1;
 }
+
+
+.cursos {
+    background-color: rgba(255, 255, 255, 1);
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 50px 14px;
+}
+
+.cursos-content h2 {
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 14px;
+}
+
+.cursos h2 {
+    font-size: 35px;
+}
+
+.cursos-content p {
+    line-height: 150%;
+    margin-bottom: 14px;
+    text-align: center;
+    max-width: 780px;
+}
+
+.curso-info {
+    display: flex;
+    width: 100%;
+    justify-content:center;
+    padding: 20px;
+    background-color: #fefbff;
+    z-index: 99;
+}
+
+.curso-info button {
+    color: #fefbff;
+    font-size: 20px;
+    background-color: #d40909;
+    padding: 5px 10px;
+    border-radius: 8px;
+    border: 4;
+    cursor: default;
+}
+
+
+/* Definir o elemento que irá piscar */
+.button-curso {
+    animation: piscar 1s infinite;
+  }
+  
+  /* Definir a animação */
+  @keyframes piscar {
+    0% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0.5;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
