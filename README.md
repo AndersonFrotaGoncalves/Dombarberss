@@ -1,41 +1,20 @@
-# 💈 Dom Barberss – Landing Page
+# Dom Barberss
 
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/AndersonGFrota/Dombarberss/blob/main/LICENSE)
-[![Deploy](https://img.shields.io/badge/Ver%20Online-Netlify-blue)](https://dombarberss.netlify.app/)
-[![Author](https://img.shields.io/badge/Autor-Anderson%20Frota-lightgrey)](https://www.linkedin.com/in/andersongfrota)
+Landing page para uma barbearia, com serviços, localização e marcação.
 
-## 📄 Sobre o projeto
+🔗 **Site:** [dombarberss.netlify.app](https://dombarberss.netlify.app)
 
-Landing page desenvolvida para uma barbearia local, com objetivo de apresentar os principais serviços, localização e facilitar o contato via redes sociais e botão de agendamento.
+## O que faz
 
-O projeto foi criado com foco em responsividade, usabilidade e identidade visual alinhada ao negócio.
+- Apresentação da barbearia e dos serviços
+- Mapa do Google Maps integrado
+- Botão de marcação e contacto pelo WhatsApp
+- Layout responsivo
 
----
+## Tecnologias
 
-## 🖼️ Modelo visual
+HTML · CSS · JavaScript · Netlify
 
-![Modelo Conceitual](https://github.com/AndersonGFrota/Dombarberss/blob/main/assets/Beige%20Brown%20Aesthetic%20Save%20The%20Date%20Editable%20Mockup%20Instagram%20Post.png)
+## Autor
 
----
-
-## 🚀 Tecnologias utilizadas
-
-- HTML5  
-- CSS3  
-- JavaScript  
-
----
-
-## 🌐 Link do projeto
-
-Acesse aqui: [dombarberss.netlify.app](https://dombarberss.netlify.app/)
-
----
-
-## 👨‍💻 Autor
-
-Feito por **Anderson Frota Gonçalves**  
-[LinkedIn](https://www.linkedin.com/in/andersongfrota)  
-[GitHub](https://github.com/AndersonGFrota)
-
----
+**Anderson Frota** · [andersonfrota.netlify.app](https://andersonfrota.netlify.app) · [LinkedIn](https://www.linkedin.com/in/andersongfrota) · [GitHub](https://github.com/AndersonFrotaGoncalves)
